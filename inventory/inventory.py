@@ -1,3 +1,4 @@
+# Inventory system core module
 from inventory.slot import InventorySlot
 
 from config import INVENTORY_SIZE
