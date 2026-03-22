@@ -1,3 +1,4 @@
+# Item domain entity
 from items.item_types import ItemType
 
 from items.rarity import Rarity
